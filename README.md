@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently learning Python and everything related to IT.
 
 <!--
 **hishrau/hishrau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
